@@ -1,6 +1,8 @@
 # The tutorialinux Ansible Course
 
-Finally, a practical, project-based Ansible course for beginners! Check out the official [tutorialinux website](https://tutorialinux.com) or [YouTube channel](https://www.youtube.com/watch?v=fYd_KQpfBs8) for more Linux tutorials and courses like this one.
+A practical, project-based Ansible course for beginners! 
+
+Check out the official [tutorialinux website](https://tutorialinux.com) or [YouTube channel](https://www.youtube.com/watch?v=fYd_KQpfBs8) for more Linux tutorials and courses like this one.
 
 These instructions, code snippets, and project files go with the [Basic Ansible Course](https://www.packtpub.com/networking-and-servers/ansible-2-beginners-video) that I made for Packt Publishing. Support tutorialinux and check it out!
 
