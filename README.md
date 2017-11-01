@@ -1,8 +1,7 @@
+<<<<<<< HEAD
 # The tutorialinux Ansible Course
 
 A practical, project-based Ansible course for beginners! 
-
-Modified by Peter Phan
 
 Check out the official [tutorialinux website](https://tutorialinux.com) or [YouTube channel](https://www.youtube.com/watch?v=fYd_KQpfBs8) for more Linux tutorials and courses like this one.
 
@@ -28,3 +27,14 @@ That method also happens to be super-frustrating, so if you find bugs in my exam
 Things will continue to be ever-changing -- new Ansible versions will introduce bugs and features, new SSH versions will behave differently, and kittens will cry big weeping tears. That's just the way of the world, so make sure to notify me if you find bugs or broken code.
 
 
+=======
+### Well hello there!
+
+This repository is meant to provide an example for *forking* a repository on GitHub.
+
+Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
+
+After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
+
+For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+>>>>>>> refs/remotes/origin/master
